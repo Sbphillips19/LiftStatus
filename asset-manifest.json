@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Sbphillips19/LiftStatus/static/css/main.0c4509d0.chunk.css",
-    "main.js": "/Sbphillips19/LiftStatus/static/js/main.962de8e9.chunk.js",
-    "main.js.map": "/Sbphillips19/LiftStatus/static/js/main.962de8e9.chunk.js.map",
-    "runtime-main.js": "/Sbphillips19/LiftStatus/static/js/runtime-main.ac817da7.js",
-    "runtime-main.js.map": "/Sbphillips19/LiftStatus/static/js/runtime-main.ac817da7.js.map",
-    "static/js/2.58a0b061.chunk.js": "/Sbphillips19/LiftStatus/static/js/2.58a0b061.chunk.js",
-    "static/js/2.58a0b061.chunk.js.map": "/Sbphillips19/LiftStatus/static/js/2.58a0b061.chunk.js.map",
-    "index.html": "/Sbphillips19/LiftStatus/index.html",
-    "precache-manifest.72872c433a09f2d0d686c78a8e3b1162.js": "/Sbphillips19/LiftStatus/precache-manifest.72872c433a09f2d0d686c78a8e3b1162.js",
-    "service-worker.js": "/Sbphillips19/LiftStatus/service-worker.js",
-    "static/css/main.0c4509d0.chunk.css.map": "/Sbphillips19/LiftStatus/static/css/main.0c4509d0.chunk.css.map",
-    "static/js/2.58a0b061.chunk.js.LICENSE.txt": "/Sbphillips19/LiftStatus/static/js/2.58a0b061.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Sbphillips19/LiftStatus/static/media/logo.5d5d9eef.svg"
+    "main.css": "/LiftStatus/static/css/main.0c4509d0.chunk.css",
+    "main.js": "/LiftStatus/static/js/main.d7961b61.chunk.js",
+    "main.js.map": "/LiftStatus/static/js/main.d7961b61.chunk.js.map",
+    "runtime-main.js": "/LiftStatus/static/js/runtime-main.f8928398.js",
+    "runtime-main.js.map": "/LiftStatus/static/js/runtime-main.f8928398.js.map",
+    "static/js/2.337c12d8.chunk.js": "/LiftStatus/static/js/2.337c12d8.chunk.js",
+    "static/js/2.337c12d8.chunk.js.map": "/LiftStatus/static/js/2.337c12d8.chunk.js.map",
+    "index.html": "/LiftStatus/index.html",
+    "precache-manifest.c6d5b67ce5553ad3a4b383559abbb064.js": "/LiftStatus/precache-manifest.c6d5b67ce5553ad3a4b383559abbb064.js",
+    "service-worker.js": "/LiftStatus/service-worker.js",
+    "static/css/main.0c4509d0.chunk.css.map": "/LiftStatus/static/css/main.0c4509d0.chunk.css.map",
+    "static/js/2.337c12d8.chunk.js.LICENSE.txt": "/LiftStatus/static/js/2.337c12d8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LiftStatus/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac817da7.js",
-    "static/js/2.58a0b061.chunk.js",
+    "static/js/runtime-main.f8928398.js",
+    "static/js/2.337c12d8.chunk.js",
     "static/css/main.0c4509d0.chunk.css",
-    "static/js/main.962de8e9.chunk.js"
+    "static/js/main.d7961b61.chunk.js"
   ]
 }
