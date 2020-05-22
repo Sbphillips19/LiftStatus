@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4421b4daceb26359b9b498dc7988a3d6",
+    "revision": "bababe5d6942c468f259803393a985b0",
     "url": "/LiftStatus/index.html"
   },
   {
-    "revision": "52d7c0ca92fa38c625ad",
+    "revision": "4982ed61408fd8aac505",
     "url": "/LiftStatus/static/css/main.0c4509d0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LiftStatus/static/js/2.337c12d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52d7c0ca92fa38c625ad",
-    "url": "/LiftStatus/static/js/main.d7961b61.chunk.js"
+    "revision": "4982ed61408fd8aac505",
+    "url": "/LiftStatus/static/js/main.8b863a29.chunk.js"
   },
   {
     "revision": "335ac0948debe00a27ca",
