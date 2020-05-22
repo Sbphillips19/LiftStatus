@@ -61,7 +61,7 @@ function App() {
       <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', padding: '50px', maxWidth: '500px', margin: '50px', borderStyle: 'solid', borderWidth: '5px' }}>
         <input className="question" name="name" id="nme" required autoComplete="off" type="text" onChange={handleChange} value={mountain} />
         <label htmlFor="nme"><span>Enter mountain name?</span></label>
-        <button className="button" onClick={() => { mountain !== "" ? fetchResort() :  alert("please type in a moutain")}} style={{ width: '200px', height: '50px', backgroundColor: 'grey', color: 'white', marginTop: '30px' }}>Get Current Info</button>
+        <button className="button" onClick={() => { mountain !== "" ? fetchResort() :  alert("please type in a moutain")}} style={{ width: '200px', height: '50px', backgroundColor: '#61dafb', color: 'white', marginTop: '30px' }}>Get Current Info</button>
       </div>
       <br />
       <br />
